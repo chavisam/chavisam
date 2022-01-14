@@ -7,7 +7,7 @@ One day I decided to Code and since that day.... I'm learning day by day to Code
 
 
 
-- 🔭 I’m currently working on an Accademy teaching a lot of things about computers. Also works as a Teacher assistant in 4Geeks Academy Spain.
+- 🔭 I’m currently working on developping Apps for small enterprises. Also works as a Teacher assistant in 4Geeks Academy Spain.
 - 🌱 I’m currently learning and improve Codding.
 
 
