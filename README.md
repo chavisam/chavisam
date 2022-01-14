@@ -5,20 +5,11 @@ Welcome to my GitHub Profile !
 
 One day I decided to Code and since that day.... I'm learning day by day to Code. 
 
-<!--
-**chavisam/chavisam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on an Accademy teaching a lot of things about computers. Also works as a Teacher assistant in 4Geeks Academy Spain.
 - 🌱 I’m currently learning and improve Codding.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
 
 ## Technologies I know (by now):
 
